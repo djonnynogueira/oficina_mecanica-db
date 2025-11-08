@@ -13,4 +13,14 @@ Criar um esquema lógico completo para o contexto de uma oficina mecânica, incl
 - ✅ Inserção de dados de teste
 - ✅ Queries para análise de dados
 
+### Estrutura do Projeto
+
+[Script de criação do banco](schema/create_database.sql)
+
+[Script de inserção de dados de teste](data/insert_data.sql)
+
+[Queries de análise de e-commerce](queries/queries.sql)
+
+[Diagrama EER](docs/modelo_eer.png)
+
 ### Desenvolvido como parte do Desafio de Projeto - Modelagem de Banco de Dados para Oficina Mecânica da Digital Innovation One (DIO).
